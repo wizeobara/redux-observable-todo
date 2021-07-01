@@ -30,7 +30,7 @@
     "typesafe-actions": "^5.1.0",
     "typescript-fsa": "^3.0.0",
     "typescript-fsa-reducers": "^1.2.2",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^2.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
